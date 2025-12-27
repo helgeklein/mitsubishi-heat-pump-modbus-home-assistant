@@ -4,7 +4,7 @@ This configuration defines the most relevant Modbus registers of a Mitsubishi he
 
 ## Prerequisites
 
-You need a Mitsubishi Modbus interface, either the A1M (serial only) or the A1M+ (serial + Ethernet). You can find details in this blog post.
+You need a Mitsubishi Modbus interface, either the A1M (serial only) or the A1M+ (serial + Ethernet). See <a href="https://helgeklein.com/blog/mitsubishi-heat-pump-data-in-home-assistant-via-modbus/" target="_blank">this blog post</a> for details.
 
 ## Setup
 
